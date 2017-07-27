@@ -2,4 +2,6 @@ beni oku
 deneme2
 
 
-deneme4
+deneme 4
+
+deneme6
